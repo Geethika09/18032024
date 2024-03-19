@@ -1,0 +1,6 @@
+com\qualizeal\javaapp\App.class
+com\qualizeal\javaapp\mainprogram\relational\Relational.class
+com\qualizeal\javaapp\mainprogram\conditional\ifthen\IfThen.class
+com\qualizeal\javaapp\mainprogram\unary\Unary.class
+com\qualizeal\javaapp\mainprogram\arithmetic\Arithmetic.class
+com\qualizeal\javaapp\mainprogram\Operators.class
